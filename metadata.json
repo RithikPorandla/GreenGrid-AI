@@ -1,0 +1,5 @@
+{
+  "name": "GreenGrid Optimizer",
+  "description": "A production-grade Smart Grid SaaS dashboard. It simulates a real-time energy grid, detects anomalies (voltage/load), and uses Google Gemini models to act as an autonomous multi-agent system (Manager, Optimizer, Critic) to stabilize the grid and optimize distribution.",
+  "requestFramePermissions": []
+}
