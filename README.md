@@ -1,6 +1,6 @@
-# GreenGrid AI Optimizer ⚡🌱
+# GreenGrid Optimizer ⚡🌱
 
-**GreenGrid AI Optimizer** is a production-grade **Autonomous Smart Grid SaaS Dashboard**. It combines a physics-based microgrid simulation with real-time external data (U.S. EIA & Electricity Maps) and uses **Google Gemini 3 Multi-Agent AI** to perform autonomous grid stabilization and anomaly resolution.
+**GreenGrid Optimizer** is a production-grade **Autonomous Smart Grid SaaS Dashboard**. It combines a physics-based microgrid simulation with real-time external data (U.S. EIA & Electricity Maps) and uses **Google Gemini 3 Multi-Agent AI** to perform autonomous grid stabilization and anomaly resolution.
 
 ## 🚀 High-Level Overview
 
